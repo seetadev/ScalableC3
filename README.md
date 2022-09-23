@@ -32,6 +32,10 @@ Dapp URL: https://1li2klwerizr.usemoralis.com:2053/server
 
 3. Filecoin Network: Vital project Metadata on Filecoin Network. We are storing vital project monitoring data on Filecoin network. Please visit https://github.com/seetadev/ScalableC3/tree/main/store-data-filecoin-network
 
+4. Valist: We are using Valist to distribute 2 apps:
+
+a. Project Meeting Notes built using React and Tableland
+b. Competency Passbook: https://github.com/seetadev/ScalableC3/tree/main/competency_passbook/Valist-distribute
 
 
 
