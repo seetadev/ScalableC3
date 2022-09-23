@@ -26,9 +26,12 @@ Usage of Web3 Technology
 
 1. Moralis Transaction Dashboard: We are developing an aggregated dashboard for all transfers and transactions using Moralis boilerplate as a reference. Please visit the link at https://github.com/seetadev/ScalableC3/tree/main/ethereum-tx-dashboard
 
+Dapp URL: https://1li2klwerizr.usemoralis.com:2053/server
+
 2. XMTP: We are implementing XMTP Chat for Project administrators in a particular region. Please visit the implementation link: https://github.com/seetadev/ScalableC3/tree/main/competency_passbook/XMTPChat
 
 3. Filecoin Network: Vital project Metadata on Filecoin Network. We are storing vital project monitoring data on Filecoin network. Please visit https://github.com/seetadev/ScalableC3/tree/main/store-data-filecoin-network
+
 
 
 
