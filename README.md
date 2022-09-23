@@ -1,4 +1,6 @@
 # ScalableC3
+Category: Cloning Web2
+
 Competency ledger on a public blockchain network of universities and open source orgs for awarding badges and certificates to students can remain decentralized in the public blockchain network of schools and will always be one source of truth for authenticity.
 
 # Inspiration
@@ -11,7 +13,12 @@ Learning passbook is currently being conceptualised as a comprehensive student e
 A distributed web3 service to be able to create and distribute NFTs to the added network of contacts
 
 Use Web3 SDK/APIs to be able to communicate with Filecoin blockchain network powered by Moralis
+
 Set up a FileCoin  blockchain and implement transferring, mining, and transactions on the blockchain network
+
 Persist transactions on the network
+
 Implement transaction logic for successful mining
+
 Create a simple UI for demonstration
+
