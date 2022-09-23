@@ -39,5 +39,8 @@ b. Competency Passbook: https://github.com/seetadev/ScalableC3/tree/main/compete
 
 5. Fluence: We are utilizing and developing on Rhai. Rhai is an embedded scripting language for Rust (https://github.com/jonathandturner/rhai). Rhai Functions for Fluence allows you to execute Rhai functions and statements. The function can be defined in one call and it's results can be fetched from another call.
 
-6. Chainlink: 
+6. Chainlink: https://github.com/seetadev/ScalableC3/tree/main/chainlink-access-offchain-data
+We are learning to utilize how smart contracts on NEAR can access off-chain data using Chainlink Oracles.
+
+7. Tableland: Project Meeting Notes powered by Tableland at https://github.com/seetadev/ScalableC3/tree/main/competency_passbook/Project-Notes-tableland
 
