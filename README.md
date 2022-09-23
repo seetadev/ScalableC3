@@ -37,5 +37,7 @@ Dapp URL: https://1li2klwerizr.usemoralis.com:2053/server
 a. Project Meeting Notes built using React and Tableland
 b. Competency Passbook: https://github.com/seetadev/ScalableC3/tree/main/competency_passbook/Valist-distribute
 
+5. Fluence: We are utilizing and developing on Rhai. Rhai is an embedded scripting language for Rust (https://github.com/jonathandturner/rhai). Rhai Functions for Fluence allows you to execute Rhai functions and statements. The function can be defined in one call and it's results can be fetched from another call.
 
+6. Chainlink: 
 
