@@ -1,17 +1,14 @@
-# tableland-todo
+# Project Notes using Tableland
 
 
-The initial goal of this project is to serve as a base level POC for Tableland.
+We are using Tableland to develop a project notes app.
 
 ![arch diagram](https://github.com/tablelandnetwork/example-apps/blob/main/tableland-todo/utils/todos-arch-diagram.png?raw=true)
 
 
 
-### This is a Nuxt Project
 
-For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
-
-quickstart:
+quickstart for Project Notes
 
 ```bash
 # install dependencies
