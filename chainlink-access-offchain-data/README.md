@@ -1,8 +1,8 @@
 # NEAR <> Chainlink Oracle Demo
 
-A simple front-end dApp demonstrating how smart contracts on NEAR can access off-chain data using [Chainlink Oracles](https://chain.link/).
+We are learning to utilize how smart contracts on NEAR can access off-chain data using [Chainlink Oracles](https://chain.link/).
 
-- This example allows users to search for and retrieve a token's current market price in USD. 
+- This module allows users to search for and retrieve a token's current market price in USD. 
 
 On initial page load, the application auto-connects to the NEAR blockchain using built in access keys configured by the dApp developer. When a search is performed, the application interacts with a `client` smart contract (already deployed on NEAR) by placing a contract call that invokes the `get_token_price` method within `client`. This triggers the following chain of events:
 
