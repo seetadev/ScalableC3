@@ -1,0 +1,318 @@
+.diagram {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    margin: auto auto;
+    min-width: 1153px;
+    max-width: 1153px;
+    height: 560px;
+
+}
+a:hover{
+    color: #a0b6ff;
+}
+
+.first-top-arrow, .second-top-arrow {
+    position: absolute;
+}
+
+.first-top-arrow {
+    margin-left: 68px;
+}
+
+.second-top-arrow {
+    margin-left: 103px;
+}
+
+.oracle-explainer {
+    display: grid;
+    justify-content: end;
+}
+
+.oracle-explainer div {
+    display: flex;
+}
+
+.oracle-explainer img {
+    width: 47px;
+    height: 13px;
+    margin: auto 16px;
+}
+
+.oracle-explainer p {
+    color: #999999;
+    font-size: 12px;
+    line-height: 14px;
+    width: 128px;
+}
+
+.middle-header {
+    margin-top: 22px;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    z-index: -10;
+    min-width: 1153px;
+}
+
+.middle-header div {
+    margin-left: 13px;
+    margin-right: 13px;
+}
+
+.middle-header p {
+    font-size: 18px;
+    line-height: 32px;
+    color: #24272A;
+    margin-top: 40px;
+}
+
+.contract-box {
+    margin-top: 26px;
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: auto;
+    grid-template-areas: "a b c d d e f g";
+    justify-content: center;
+    align-items: center;
+}
+
+.contract-box-one {
+    grid-area: a;
+}
+
+.contract-box-one p, .bobtokens-inactive, .bobtokens-active {
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 28px;
+    position: absolute;
+    color: #24272A;
+    margin-top: -104px;
+    margin-left: 16px;
+}
+
+.bobtokens-inactive {
+    opacity: 0;
+}
+
+.contract-box-two {
+    grid-area: b;
+    margin: auto auto;
+}
+
+.contract-box-three {
+    grid-area: c;
+}
+
+.contract-box-four {
+    grid-area: d;
+}
+
+.contract-box-five {
+    grid-area: e;
+    margin: auto auto;
+}
+
+.contract-box-six {
+    grid-area: f;
+}
+
+.contract-box-seven {
+    grid-area: g;
+}
+
+#second-arrow, #fourth-arrow, #long-arrow-two {
+    margin-top: 16px;
+}
+
+.explainer,
+.explainer-two,
+.explainer-three,
+.explainer-four,
+.explainer-five,
+.explainer-seven {
+    position: absolute;
+    background-color: #ffffff;
+    z-index: 5;
+    border: 4px solid #E6E6E6;
+    box-sizing: border-box;
+    border-radius: 10px;
+    min-height: 200px;
+}
+
+.arrow {
+    position: absolute;
+    z-index: 6;
+    width: 20px;
+    height: 20px;
+    background: white;
+    transform: translateX(-40%) translateY(-60%) rotate(45deg);
+    left: 20%;
+    border-top: 4px solid #E6E6E6;
+    border-left: 4px solid #E6E6E6;
+}
+
+.explainer-two {
+    margin-left: 132px;
+}
+
+.explainer-three {
+    margin-left: 285px;
+}
+
+.explainer-four {
+    margin-left: 690px;
+}
+
+.explainer-five {
+    margin-left: 391px;
+}
+
+.explainer-seven {
+    margin-bottom: 122px;
+}
+
+.explainer-one-content {
+    margin: 32px;
+    width: 350px;
+    max-height: 456px;
+    position: relative;
+    z-index: 10;
+}
+
+.explainer-one-content h4 {
+    margin-bottom: 0px;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 28px;
+    color: #25282A;
+}
+
+.description {
+    font-size: 18px;
+    line-height: 200%;
+    font-size: 14px;
+    color: #666666;
+}
+
+.glass {
+    margin-left: 8px;
+    height: 16px;
+    width: 16px;
+}
+
+.explorer-link {
+    font-size: 18px;
+    line-height: 200%;
+    font-size: 16px;
+    color: #0071CE;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    text-decoration: none;
+}
+
+.explainer-button p {
+    margin: 0px;
+}
+
+.explainer-button {
+    display: flex;
+    font-size: 14px;
+    color: #0071CE;
+    margin-top: 40px;
+}
+
+.explainer-button:hover, .explorer-link:hover {
+    color: #a0b6ff;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.learn-more-button {
+    position: absolute;
+    background-color: #0071CE;
+    color: #ffffff;
+    width: 210px;
+    height: 45px;
+    margin-top: 24px;
+    border-radius: 5px;
+    border: none;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.learn-more-button a, .learn-more-button a:link, .learn-more-button a:visited  {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.explorer-link a, .explorer-link a:link, .explorer-link a:visited {
+    color: #0071CE;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.learn-more-button:hover {
+    background-color: #00569c;
+    cursor: pointer;
+}
+
+.nearkat-one {
+    position: absolute;
+    margin-top: -48px;
+    margin-left: 301px;
+}
+
+.nearkat-two {
+    position: absolute;
+    margin-top: -80px;
+    margin-left: 286px;
+}
+
+.step-one {
+    position: absolute;
+    margin-top: 0px;
+    margin-left: -56px;
+}
+
+.step-two {
+    position: absolute;
+    margin-top: 0px;
+    margin-left: -56px;
+    opacity: 0;
+}
+
+.transfer-ten-inactive {
+    position: absolute;
+    margin-left: 176px;
+    margin-top: 24px;
+    opacity: 0;
+}
+
+.transfer-ten-active {
+    position: absolute;
+    margin-left: 176px;
+    margin-top: 24px;
+    opacity: 1;
+}
+
+.bob-contract-lock-inactive {
+    position: absolute;
+    margin-left: 176px;
+    margin-top: 24px;
+    opacity: 0;
+}
+
+.bob-contract-lock-active {
+    position: absolute;
+    margin-left: 260px;
+    margin-top: 24px;
+    opacity: 1;
+}
+
