@@ -26,7 +26,8 @@ Usage of Web3 Technology
 
 1. Moralis Transaction Dashboard: We are developing an aggregated dashboard for all transfers and transactions using Moralis boilerplate as a reference. Please visit the link at https://github.com/seetadev/ScalableC3/tree/main/ethereum-tx-dashboard
 
-Dapp URL: https://1li2klwerizr.usemoralis.com:2053/server
+Deployment URL: https://1li2klwerizr.usemoralis.com:2053/server (to be deployed to moralis)
+
 
 2. XMTP: We are implementing XMTP Chat for Project administrators in a particular region. Please visit the implementation link: https://github.com/seetadev/ScalableC3/tree/main/competency_passbook/XMTPChat
 
